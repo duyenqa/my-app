@@ -21,7 +21,7 @@ and
 code .
 ```
 
-## Create node_modules
+## Create node_modules folder
 ```txt
 yarn
 ```
