@@ -32,4 +32,8 @@ yarn dev
 ```
 
 ## Note: 
+[Install NodeJS](https://nodejs.org/en)
+
 [Download Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+
+Alternatives --> click to expand/collapse --> Windows --> Download the installer --> click Download installer button
