@@ -30,3 +30,6 @@ yarn
 ```txt
 yarn dev
 ```
+
+## Note: 
+[Download Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
